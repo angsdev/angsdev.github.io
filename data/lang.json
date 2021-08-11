@@ -1,0 +1,114 @@
+{
+	"español": {
+		"nav": {
+			"buttons": [
+				"Inicio",
+				"Sobre",
+				"Aprender",
+				"Proyectos",
+				"Contacto"
+			]
+		},
+		"about": {
+			"title": [
+				"Sobre mi",
+				"Tecnologías"
+			],
+			"info": [
+				"¡Hola! Mi nombre es <b>Angel Quiñonez</b>, soy un profesional informático orientado a la rama del desarrollo de software, especializado en backend, aun así con gran conocimiento y manejo de tecnologías web frontend, con enfoque a diseños/desarrollos minimalistas, de óptimo rendimiento y/o sin exceso de librerías/frameworks de terceros, aunque con la capacidad de adaptarme al uso de estos siempre que sea necesario, además apegado a las buenas prácticas conocidas.<br/> También manejo de inglés básico (A2) y habilidades en áreas distintas como soporte técnico y redes y conectividad.",
+				"Entre algunos de los conocimientos y técnicas bases de trabajo se destacan los patrones de diseño, modelado con UML, modelado relacional de datos, paradigmas procedimental y orientado a objetos, patrones de arquitectura MVC y REST, manejo de diseño responsivo mobile-first, principios DRY, KISS y YAGNI; y herramientas como Postman.<br/> A continuación, se encuentran las tecnologías que he manipulado o uso regularmente: "
+			]
+		},
+		"projects": {
+			"title": "Proyectos",
+			"info": "En esta sección se encuentran algunas muestras de proyectos realizados o en los que se ha formado parte de un equipo de trabajo, para ver mas usa el link ubicado luego de los proyectos o en la sección de contacto se encuentra un link al perfil de Github en el que habrá mas proyectos públicos.",
+			"project": [
+				{
+					"alt": "API RESTful",
+					"title": "Servicio web RESTful - API de tareas",
+					"description": "Servicio web tipo lista de tareas con operaciones CRUD sobre base de datos MariaDB, respetando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y  autenticación JWT. Además, documentado con Swagger."
+				}
+			],
+			"more": "Ver más proyectos"
+		},
+		"contact": {
+			"title": "Contacto",
+			"cards": [
+				{
+					"title": "Redes sociales"
+				},
+				{
+					"title": "Correo electrónico"
+				}
+			],
+			"form": [
+				"Nombre",
+				"Correo",
+				"Tema",
+				"Mensaje"
+			],
+			"formAttachment": [
+				"Arrastra una imagen o archivo",
+				"o"
+			],
+			"formAttachmentLabel": "Examinar",
+			"sendButton": "Enviar correo"
+		}
+	},
+	"english": {
+		"nav": {
+			"buttons": [
+				"Home",
+				"About",
+				"Learn",
+				"Projects",
+				"Contact"
+			]
+		},
+		"about": {
+			"title": [
+				"About me",
+				"Technologies"
+			],
+			"info": [
+				"Hi, my name is <b>Angel Quiñonez</b>, i'm a computer professional oriented to the branch of software development, specialized in backend, even so with great knowledge and handling of web frontend technologies, with focus to minimalist designs/developments, with optimal perfomance and without excess third-party libraries/frameworks, although with ability to adapt to use of these whenever necessary, also adhering to know good practices.<br/> I also manage basic english (A2) and skills in different areas such as technical support and network and connectivity.",
+				"Some of the basic knowledge and work techniques include Design patterns, UML modeling, relational data modeling, procedural and object-oriented paradigms, MVC and REST architecture patterns, mobile-first responsive design management, DRY, KISS and YAGNI principles; and tools like Postman. Below are the technologies that I have manipulated or use regularly:"
+			]
+		},
+		"projects": {
+			"title": "Projects",
+			"info": "In this section you will find some samples of projects carried out or in which you have been part of a work team, to see more projects in the contact section there is a link to the Github profile in which there will be more public projects.",
+			"project": [
+				{
+					"alt": "API RESTful",
+					"title": "RESTful web service - To do API",
+					"description": "To do list type web service with CRUD operations on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication. Also, documented with Swagger."
+				}
+			],
+			"more": "See more projects"
+		},
+		"contact": {
+			"title": "Contact",
+			"cards": [
+				{
+					"title": "Social Networks"
+				},
+				{
+					"title": "Email"
+				}
+			],
+			"form": [
+				"Name",
+				"Email",
+				"Subject",
+				"Message"
+			],
+			"formAttachment": [
+				"Drag an image or file",
+				"or"
+			],
+			"formAttachmentLabel": "Examine",
+			"sendButton": "Send Mail"
+		}
+	}
+}

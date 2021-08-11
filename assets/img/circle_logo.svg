@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="125mm" height="125mm" enable-background="new" version="1.1" viewBox="0 0 125 125" xmlns="http://www.w3.org/2000/svg">
+ <rect x="8.8818e-16" width="125" height="125" ry="62.5" enable-background="new" fill="#001321"/>
+ <g transform="translate(9.0663 14.028)">
+  <g transform="translate(-77.697 -29.671)" enable-background="new" fill="#f9f9f9">
+   <g fill-opacity=".23529">
+    <circle cx="118.57" cy="53.784" r="3" enable-background="new"/>
+    <circle cx="103.83" cy="68.475" r="3" enable-background="new"/>
+    <ellipse cx="103.78" cy="88.239" rx="2.9674" ry="3" enable-background="new"/>
+    <circle cx="118.57" cy="102.5" r="3" enable-background="new"/>
+    <circle cx="144.2" cy="102.5" r="3" enable-background="new"/>
+    <ellipse cx="158.49" cy="88.239" rx="2.9674" ry="3" enable-background="new"/>
+    <circle cx="144.2" cy="53.784" r="3" enable-background="new"/>
+    <circle cx="157.59" cy="68.475" r="3" enable-background="new"/>
+   </g>
+   <g fill-opacity=".47059">
+    <circle cx="102.82" cy="53.23" r="5" enable-background="new"/>
+    <circle cx="93.639" cy="77.756" r="5" enable-background="new"/>
+    <circle cx="101.37" cy="102.95" r="5" enable-background="new"/>
+    <circle cx="122.86" cy="116.49" r="5" enable-background="new"/>
+    <circle cx="138.13" cy="116.39" r="5" enable-background="new"/>
+    <circle cx="161.17" cy="103.96" r="5" enable-background="new"/>
+    <circle cx="168.56" cy="77.42" r="5" enable-background="new" stroke="#fff" stroke-opacity=".39216" stroke-width=".11915"/>
+    <circle cx="158.15" cy="51.214" r="5" enable-background="new"/>
+    <circle cx="137.46" cy="39.791" r="5" enable-background="new"/>
+    <circle cx="122.86" cy="39.892" r="5" enable-background="new"/>
+   </g>
+   <g fill-opacity=".70588">
+    <circle cx="107.28" cy="36.771" r="7" enable-background="new"/>
+    <circle cx="87.483" cy="61.726" r="7" enable-background="new"/>
+    <circle cx="87.483" cy="93.98" r="7" enable-background="new"/>
+    <circle cx="106.3" cy="119.51" r="7" enable-background="new"/>
+    <circle cx="156.69" cy="119.51" r="7" enable-background="new"/>
+    <circle cx="174.78" cy="93.93" r="7" enable-background="new"/>
+    <circle cx="174.78" cy="60.382" r="7" enable-background="new"/>
+    <circle cx="155.01" cy="36.771" r="7" enable-background="new"/>
+   </g>
+  </g>
+  <g transform="translate(-70.927 -18.637)" enable-background="new" stroke="#fff" stroke-linecap="square" stroke-linejoin="bevel">
+   <g transform="translate(-2.5994 -.78576)" stroke-opacity=".39216" stroke-width=".05">
+    <path d="m100.04 52.42 26.955 15.474 0.01 31.089-26.965-15.599z" fill="#151e4d" stroke-miterlimit="1.8" style="paint-order:fill markers stroke"/>
+    <path d="m126.92 36.805-26.884 15.615 26.965 15.475 26.884-15.615z" fill="#4986df" style="paint-order:fill markers stroke"/>
+    <path d="m153.88 52.28-26.964 15.615 0.0806 31.089 26.884-15.615z" fill="#20559f" style="paint-order:fill markers stroke"/>
+   </g>
+   <g transform="matrix(.99305 0 0 1 32.044 -101.26)" stroke-opacity=".95522">
+    <path d="m73.676 179.48 19.235-11.109-0.0575-22.118-19.178 11.109z" fill="#20559f" stroke-width=".050175" style="paint-order:fill markers stroke"/>
+    <path d="m112.09 179.38-19.229-11.009-8e-3 -22.118 19.236 11.098z" fill="#151e4d" stroke-width=".051517" style="paint-order:fill markers stroke"/>
+    <path d="m92.977 190.49 19.113-11.112-19.236-11.009-19.178 11.109z" fill="#4986df" stroke-width=".051517" style="paint-order:fill markers stroke"/>
+   </g>
+   <g transform="matrix(.95572 0 0 1 -17.954 -116.8)" stroke-width=".051517">
+    <path d="m136.33 176.97 12.531 6.9343 4e-3 13.931-12.536-6.9899z" fill="#151e4d" style="paint-order:fill markers stroke"/>
+    <path d="m161.37 176.91-12.536 6.9973 0.0376 13.931 12.498-6.9973z" fill="#20559f" style="paint-order:fill markers stroke"/>
+    <path d="m148.83 169.98-12.498 6.9973 12.536 6.9343 12.498-6.9973z" fill="#4986df" style="paint-order:fill markers stroke"/>
+   </g>
+  </g>
+  <g enable-background="new" fill="#ececec" stroke="#252525" stroke-width=".265" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="Angs Dev">
+   <path d="m26.902 51.244-3.6177-7.0997-3.6177 7.0997-0.79022 1.5434h1.7286l0.79022-1.5434 1.8891-3.7042 1.8891 3.7042 0.79022 1.5434h1.7286z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m34.996 44.144v5.5069l-5.5562-4.2845-1.5434-1.1853v8.6184h1.5434v-5.4698l5.5562 4.2845 1.5434 1.1853v-8.6431z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m41.576 45.688h4.3215v-1.5434h-4.3215c-2.383 0-4.3215 1.9385-4.3215 4.3215s1.9385 4.3215 4.3215 4.3215h4.3215v-4.7413h-4.3215v1.5434h2.7781v1.6545h-2.7781c-1.5311 0-2.7781-1.2471-2.7781-2.7781 0-1.5311 1.2471-2.7781 2.7781-2.7781z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m54.787 46.527v-0.04939c0-1.2841-1.0495-2.3336-2.3336-2.3336h-3.5066c-1.2841 0-2.3213 1.0495-2.3213 2.3336v0.04939c0 0.49389 0.14817 0.95074 0.40746 1.3212 0.08643 0.13582 0.18521 0.25929 0.29633 0.37042 0.41981 0.40746 0.98778 0.6544 1.6175 0.6544h3.1115c0.6544 0 1.1977 0.53093 1.1977 1.1853s-0.54328 1.1853-1.1977 1.1853h-2.704c-0.6544 0-1.1853-0.53093-1.1853-1.1853h-1.5434c0 1.5064 1.2224 2.7287 2.7287 2.7287h2.704c1.5064 0 2.7287-1.2224 2.7287-2.7287 0-0.6544-0.2346-1.2594-0.61736-1.7286-0.03704-0.03704-0.06174-0.07408-0.09878-0.11112-0.49389-0.54328-1.21-0.889-2.0126-0.889h-3.1115c-0.43215 0-0.79022-0.35807-0.79022-0.79022v-0.049389c0-0.43215 0.35807-0.79022 0.79022-0.79022h3.5066c0.43215 0 0.79022 0.35807 0.79022 0.79022v0.04939z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m60.965 44.144v8.6431h4.3215c1.1853 0 2.2595-0.48154 3.0374-1.2718 0.08643-0.08643 0.17286-0.17286 0.24694-0.25929 0.64206-0.75318 1.0248-1.7286 1.0248-2.7905 0-2.383-1.9385-4.3092-4.3215-4.3092zm1.5311 1.5558h2.7781c1.5311 0 2.7781 1.2471 2.7781 2.7781 0 1.5311-1.2471 2.7781-2.7781 2.7781h-2.7781z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m72.656 45.688h6.3094v-1.5434h-6.3094c-1.2841 0-2.3213 1.0495-2.3213 2.3336v3.9758c0 1.2841 1.0372 2.3336 2.3213 2.3336h6.3094v-1.5434h-6.3094c-0.43215 0-0.79022-0.35807-0.79022-0.79022v-1.6298h5.5562v-1.5434h-5.5562v-0.80257c0-0.43215 0.35807-0.79022 0.79022-0.79022z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   <path d="m86.262 44.144-0.79022 1.5434-1.8891 3.7042-1.8891-3.7042-0.79022-1.5434h-1.7286l0.79022 1.5434 3.6177 7.0997 3.6177-7.0997 0.79022-1.5434z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+  </g>
+ </g>
+</svg>
