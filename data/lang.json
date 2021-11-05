@@ -26,12 +26,12 @@
 				{
 					"alt": "Activities API RESTful",
 					"title": "Servicio web RESTful - Actividades",
-					"description": "Servicio web de actividades sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+					"description": "Servicio web de Actividades sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
 				},
 				{
 					"alt": "Troubleshoot center API RESTful",
 					"title": "Servicio web RESTful - Centro de resolución de problemas",
-					"description": "Servicio web de centro de solucion de problemas sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+					"description": "Servicio web de Centro de Solución de Problemas sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
 				},
 				{
 					"alt": "Inventory API RESTful",
@@ -41,12 +41,12 @@
 				{
 					"alt": "Notes API RESTful",
 					"title": "Servicio web RESTful - Notas",
-					"description": "Servicio web de notas sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+					"description": "Servicio web de Notas sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
 				},
 				{
 					"alt": "Todo API RESTful",
 					"title": "Servicio web RESTful - Lista de tareas",
-					"description": "Servicio web tipo lista de tareas con operaciones CRUD sobre base de datos MariaDB, respetando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y  autenticación JWT. Además, documentado con Swagger."
+					"description": "Servicio web tipo Lista de Tareas con operaciones CRUD sobre base de datos MariaDB, respetando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y  autenticación JWT. Además, documentado con Swagger."
 				}
 			],
 			"more": "Ver más proyectos"
@@ -122,7 +122,7 @@
 				{
 					"alt": "Todo API RESTful",
 					"title": "RESTful web service - Todo list",
-					"description": "To do list type web service with CRUD operations on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication. Also, documented with Swagger."
+					"description": "Todo list type web service with CRUD operations on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication. Also, documented with Swagger."
 				}
 			],
 			"more": "See more projects"
