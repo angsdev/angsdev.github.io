@@ -24,8 +24,28 @@
 			"info": "En esta sección se encuentran algunas muestras de proyectos realizados o en los que se ha formado parte de un equipo de trabajo, para ver mas usa el link ubicado luego de los proyectos o en la sección de contacto se encuentra un link al perfil de Github en el que habrá mas proyectos públicos.",
 			"project": [
 				{
-					"alt": "API RESTful",
-					"title": "Servicio web RESTful - API de tareas",
+					"alt": "Activities API RESTful",
+					"title": "Servicio web RESTful - Actividades",
+					"description": "Servicio web de actividades sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+				},
+				{
+					"alt": "Troubleshoot center API RESTful",
+					"title": "Servicio web RESTful - Centro de resolución de problemas",
+					"description": "Servicio web de centro de solucion de problemas sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+				},
+				{
+					"alt": "Inventory API RESTful",
+					"title": "Servicio web RESTful - Inventario",
+					"description": "Servicio web de Inventario sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+				},
+				{
+					"alt": "Notes API RESTful",
+					"title": "Servicio web RESTful - Notas",
+					"description": "Servicio web de notas sobre base de datos MariaDB, respetando y aplicando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y autenticación JWT."
+				},
+				{
+					"alt": "Todo API RESTful",
+					"title": "Servicio web RESTful - Lista de tareas",
 					"description": "Servicio web tipo lista de tareas con operaciones CRUD sobre base de datos MariaDB, respetando los principios REST: Interfaz uniforme, Cliente-Servidor, Sin estado, Cacheable y Sistema en capas; con ordenamiento, filtrado, paginado y  autenticación JWT. Además, documentado con Swagger."
 				}
 			],
@@ -80,8 +100,28 @@
 			"info": "In this section you will find some samples of projects carried out or in which you have been part of a work team, to see more projects in the contact section there is a link to the Github profile in which there will be more public projects.",
 			"project": [
 				{
-					"alt": "API RESTful",
-					"title": "RESTful web service - To do API",
+					"alt": "Activities API RESTful",
+					"title": "RESTful web service - Activities",
+					"description": "Activities web service on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication."
+				},
+				{
+					"alt": "Troubleshoot center API RESTful",
+					"title": "RESTful web service - Troubleshoot center",
+					"description": "Troubleshoot center web service on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication."
+				},
+				{
+					"alt": "Inventory API RESTful",
+					"title": "RESTful web service - Inventory",
+					"description": "Inventory web service on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication."
+				},
+				{
+					"alt": "Notes API RESTful",
+					"title": "RESTful web service - Notes",
+					"description": "Notes web service on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication."
+				},
+				{
+					"alt": "Todo API RESTful",
+					"title": "RESTful web service - Todo list",
 					"description": "To do list type web service with CRUD operations on MariaDB database, respecting REST principles: Uniform interface, Client-Server, Stateless, Cacheable and Layered system; with sorting, filtering, paging and JWT authentication. Also, documented with Swagger."
 				}
 			],
